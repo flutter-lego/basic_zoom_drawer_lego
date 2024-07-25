@@ -1,7 +1,7 @@
 name: basic_zoom_drawer_lego
 description: "lego is all you need"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/basic_zoom_drawer_lego
 
 version: 1.0.0
 
